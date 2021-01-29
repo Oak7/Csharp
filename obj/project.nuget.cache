@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n+udFw/gqzDL0OGj2mQ6DdDt9o5AMJRB9sfI2V5Pevv2iBiZL6g1Pv1CcBIKlxfApOYRck4lUoSqJyvEKAiEBA==",
+  "dgSpecHash": "xwnMQIFu+l2TBhjWb6AT88367vs8JJIgPc4eNCF2iZTE4eRkg2mAlxGK8rsTQ5/vOOVHbwpaAJO3ZQyMGuysXg==",
   "success": true,
-  "projectFilePath": "/home/gabi/Desktop/HelloWorld/HelloWorld.csproj",
+  "projectFilePath": "/home/gabi/Desktop/HelloWorld/Csharp/HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gabi/Desktop/HelloWorld/HelloWorld.csproj",
+      "projectUniqueName": "/home/gabi/Desktop/HelloWorld/Csharp/HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "/home/gabi/Desktop/HelloWorld/HelloWorld.csproj",
+      "projectPath": "/home/gabi/Desktop/HelloWorld/Csharp/HelloWorld.csproj",
       "packagesPath": "/home/gabi/.nuget/packages/",
-      "outputPath": "/home/gabi/Desktop/HelloWorld/obj/",
+      "outputPath": "/home/gabi/Desktop/HelloWorld/Csharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/gabi/.nuget/NuGet/NuGet.Config"
